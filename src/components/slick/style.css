@@ -1,0 +1,15 @@
+.slick-dots{
+    bottom: 10px;
+};
+.slick-dots > li{
+    width: 40px;
+    height: 40px;
+}
+.slick-next{
+    right: 50px;
+    z-index: 10;
+}
+.slick-prev {
+    z-index: 10;
+    left: 50px;
+}
